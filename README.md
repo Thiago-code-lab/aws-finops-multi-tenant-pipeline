@@ -10,11 +10,11 @@
 
 - [Visão Geral](#-visão-geral)
 - [Arquitetura](#-arquitetura)
-- [O Problema](#-o-problema)
-- [A Solução](#-a-solução)
+- [O Problema](#️-o-problema-cenário-anterior)
+- [A Solução](#-a-solução-implementada)
 - [Stack Tecnológico](#-stack-tecnológico)
 - [Principais Funcionalidades](#-principais-funcionalidades)
-- [Configuração](#-configuração)
+- [Configuração](#️-configuração)
 - [Resultados e Impacto](#-resultados-e-impacto)
 - [Roadmap](#-roadmap)
 
@@ -350,7 +350,7 @@ Este projeto é apresentado como peça de portfólio. A implementação original
 
 ## 👤 Autor
 
-**[Seu Nome]**
+**Thiago Cardoso**
 - LinkedIn: www.linkedin.com/in/analyticsthiagocardoso
 - Portfolio: https://thiago-code-lab.github.io/
 - Email: analyticsdev.thiago@gmail.com
