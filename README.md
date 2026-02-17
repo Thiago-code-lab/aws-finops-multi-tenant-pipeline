@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/23ac4191-7258-4f23-b43a-9648ee1e517d" width="632" />
+</div>
+
 # 💰 Plataforma Multi-Tenant de Dados de Custos AWS (FinOps)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
